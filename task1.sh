@@ -1,6 +1,3 @@
-
-
-
 pid=$(pgrep -f infinite.sh) 
 
 
